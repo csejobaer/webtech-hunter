@@ -6,7 +6,7 @@ A comprehensive Python tool to detect website technologies (frameworks, CMS, lib
 ## 🚀 Quick Installation
 
 ```bash
-git clone https://github.com/csejobaer/WTFinder.git
+git clone https://github.com/csejobaer/webtech-hunter.git
 cd webtech-hunter
 pip install requests beautifulsoup4
 ```
