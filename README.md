@@ -15,13 +15,13 @@ pip install requests beautifulsoup4
 
 ```bash
 # Basic scan
-python webtech_hunter.py https://example.com
+python main.py https://example.com
 
 # Save report with custom name
-python webtech_hunter.py https://target.com -o my_report.html
+python main.py https://target.com -o my_report.html
 
 # Scan localhost
-python webtech_hunter.py http://localhost:3000
+python main.py http://localhost:3000
 ```
 
 ## ✨ Features
